@@ -3,6 +3,8 @@
 ## Overview
 
 This project is a simple currency converter web application that allows users to convert amounts between different currencies. It uses the [Currency API](https://api.currencyapi.com/) for real-time exchange rates and provides a user-friendly interface for currency conversion.
+![image](https://github.com/user-attachments/assets/cbfd342e-8fbf-4f42-95ea-0b167e12cb29)
+
 
 ## Features
 
